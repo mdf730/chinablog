@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ND Handbell China Tour Blog</title>
-    <link>https://mdf730.github.io/chinablog/</link>
-    <description>Recent content on ND Handbell China Tour Blog</description>
+    <title>Matthew Fabian on ND Handbell China Tour Blog</title>
+    <link>https://mdf730.github.io/chinablog/tags/matthew-fabian/</link>
+    <description>Recent content in Matthew Fabian on ND Handbell China Tour Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mdf730.github.io/chinablog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mdf730.github.io/chinablog/tags/matthew-fabian/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About the Choir</title>
-      <link>https://mdf730.github.io/chinablog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mdf730.github.io/chinablog/about/</guid>
-      <description>For more information about the Notre Dame Handbell Choir, check out our website!</description>
-    </item>
     
     <item>
       <title>Goodbye Notre Dame, Hello Beijing</title>
